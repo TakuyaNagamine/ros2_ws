@@ -1,0 +1,22 @@
+[0.565s] Invoking command in '/home/takuya/ros2_ws/src/mypkg': PYTHONPATH=/home/takuya/ros2_ws/install/mypkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/mypkg build --build-base /home/takuya/ros2_ws/build/mypkg/build install --prefix /home/takuya/ros2_ws/install/mypkg --record /home/takuya/ros2_ws/build/mypkg/install.log --single-version-externally-managed
+[0.812s] running egg_info
+[0.813s] writing ../../build/mypkg/mypkg.egg-info/PKG-INFO
+[0.813s] writing dependency_links to ../../build/mypkg/mypkg.egg-info/dependency_links.txt
+[0.814s] writing entry points to ../../build/mypkg/mypkg.egg-info/entry_points.txt
+[0.814s] writing requirements to ../../build/mypkg/mypkg.egg-info/requires.txt
+[0.814s] writing top-level names to ../../build/mypkg/mypkg.egg-info/top_level.txt
+[0.878s] reading manifest file '../../build/mypkg/mypkg.egg-info/SOURCES.txt'
+[0.879s] writing manifest file '../../build/mypkg/mypkg.egg-info/SOURCES.txt'
+[0.879s] running build
+[0.880s] running build_py
+[0.880s] running install
+[0.882s] running install_lib
+[0.885s] running install_data
+[0.886s] copying package.xml -> /home/takuya/ros2_ws/install/mypkg/share/mypkg
+[0.886s] running install_egg_info
+[0.889s] removing '/home/takuya/ros2_ws/install/mypkg/lib/python3.8/site-packages/mypkg-0.0.0-py3.8.egg-info' (and everything under it)
+[0.889s] Copying ../../build/mypkg/mypkg.egg-info to /home/takuya/ros2_ws/install/mypkg/lib/python3.8/site-packages/mypkg-0.0.0-py3.8.egg-info
+[0.891s] running install_scripts
+[0.910s] Installing talker script to /home/takuya/ros2_ws/install/mypkg/lib/mypkg
+[0.910s] writing list of installed files to '/home/takuya/ros2_ws/build/mypkg/install.log'
+[0.931s] Invoked command in '/home/takuya/ros2_ws/src/mypkg' returned '0': PYTHONPATH=/home/takuya/ros2_ws/install/mypkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/mypkg build --build-base /home/takuya/ros2_ws/build/mypkg/build install --prefix /home/takuya/ros2_ws/install/mypkg --record /home/takuya/ros2_ws/build/mypkg/install.log --single-version-externally-managed

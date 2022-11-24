@@ -1,0 +1,5 @@
+  File "/home/takuya/ros2_ws/install/mypkg/lib/python3.8/site-packages/mypkg/listner.py", line 7
+    node.get_logger().info("Listen: %d % msg.data)
+                                                 ^
+SyntaxError: EOL while scanning string literal
+

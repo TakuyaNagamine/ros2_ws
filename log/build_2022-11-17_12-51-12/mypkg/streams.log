@@ -1,0 +1,23 @@
+[0.680s] Invoking command in '/home/takuya/ros2_ws/src/mypkg': PS1=\[\033[01;32m\]\u@\h\[\033[01;34m\] \w\[\033[01;31m\]$(__git_ps1 "[%s]")\[\033[00m\]\$\[\033[00m\] PYTHONPATH=/home/takuya/ros2_ws/install/mypkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/mypkg build --build-base /home/takuya/ros2_ws/build/mypkg/build install --prefix /home/takuya/ros2_ws/install/mypkg --record /home/takuya/ros2_ws/build/mypkg/install.log --single-version-externally-managed
+[0.865s] running egg_info
+[0.866s] writing ../../build/mypkg/mypkg.egg-info/PKG-INFO
+[0.867s] writing dependency_links to ../../build/mypkg/mypkg.egg-info/dependency_links.txt
+[0.867s] writing entry points to ../../build/mypkg/mypkg.egg-info/entry_points.txt
+[0.867s] writing requirements to ../../build/mypkg/mypkg.egg-info/requires.txt
+[0.868s] writing top-level names to ../../build/mypkg/mypkg.egg-info/top_level.txt
+[0.905s] reading manifest file '../../build/mypkg/mypkg.egg-info/SOURCES.txt'
+[0.905s] writing manifest file '../../build/mypkg/mypkg.egg-info/SOURCES.txt'
+[0.905s] running build
+[0.906s] running build_py
+[0.906s] running install
+[0.907s] running install_lib
+[0.908s] byte-compiling /home/takuya/ros2_ws/install/mypkg/lib/python3.8/site-packages/mypkg/listener.py to listener.cpython-38.pyc
+[0.909s] Sorry: IndentationError: unexpected indent (listener.py, line 10)
+[0.909s] running install_data
+[0.910s] running install_egg_info
+[0.911s] removing '/home/takuya/ros2_ws/install/mypkg/lib/python3.8/site-packages/mypkg-0.0.0-py3.8.egg-info' (and everything under it)
+[0.912s] Copying ../../build/mypkg/mypkg.egg-info to /home/takuya/ros2_ws/install/mypkg/lib/python3.8/site-packages/mypkg-0.0.0-py3.8.egg-info
+[0.914s] running install_scripts
+[0.933s] Installing talker script to /home/takuya/ros2_ws/install/mypkg/lib/mypkg
+[0.933s] writing list of installed files to '/home/takuya/ros2_ws/build/mypkg/install.log'
+[0.954s] Invoked command in '/home/takuya/ros2_ws/src/mypkg' returned '0': PS1=\[\033[01;32m\]\u@\h\[\033[01;34m\] \w\[\033[01;31m\]$(__git_ps1 "[%s]")\[\033[00m\]\$\[\033[00m\] PYTHONPATH=/home/takuya/ros2_ws/install/mypkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/mypkg build --build-base /home/takuya/ros2_ws/build/mypkg/build install --prefix /home/takuya/ros2_ws/install/mypkg --record /home/takuya/ros2_ws/build/mypkg/install.log --single-version-externally-managed
